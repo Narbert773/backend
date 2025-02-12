@@ -1,1 +1,1 @@
-# backend
+# Бэкенд проекта wedding
